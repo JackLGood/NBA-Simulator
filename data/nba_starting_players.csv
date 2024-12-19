@@ -1,0 +1,151 @@
+Team,Name,Position,Shooting,Finishing,Athleticism,Playmaking,Defense,Rebounding
+LA Lakers,LeBron James,SF,85,90,88,92,80,85
+LA Lakers,Anthony Davis,PF,78,88,85,70,90,92
+LA Lakers,D'Angelo Russell,PG,82,75,78,85,72,65
+LA Lakers,Austin Reaves,SG,80,78,75,77,76,68
+LA Lakers,Jared Vanderbilt,C,65,70,80,60,85,88
+Golden State Warriors,Stephen Curry,PG,95,85,80,90,70,65
+Golden State Warriors,Klay Thompson,SG,90,75,78,70,78,65
+Golden State Warriors,Andrew Wiggins,SF,82,85,88,72,82,75
+Golden State Warriors,Draymond Green,PF,65,70,75,85,88,80
+Golden State Warriors,Kevon Looney,C,60,68,70,65,80,88
+LA Clippers,Kawhi Leonard,SF,88,85,85,78,90,80
+LA Clippers,Paul George,SG,87,82,85,80,85,75
+LA Clippers,Russell Westbrook,PG,75,88,92,85,78,80
+LA Clippers,Ivica Zubac,C,65,75,70,60,80,90
+LA Clippers,Terance Mann,PF,75,78,80,72,78,70
+Phoenix Suns,Kevin Durant,SF,95,90,85,80,82,78
+Phoenix Suns,Devin Booker,SG,90,85,85,80,78,70
+Phoenix Suns,Bradley Beal,PG,88,85,80,78,75,65
+Phoenix Suns,Deandre Ayton,C,75,85,85,65,80,90
+Phoenix Suns,Eric Gordon,PF,78,70,75,72,70,68
+Sacramento Kings,De'Aaron Fox,PG,85,88,90,85,78,65
+Sacramento Kings,Domantas Sabonis,C,75,85,80,80,75,90
+Sacramento Kings,Harrison Barnes,SF,80,78,78,72,75,70
+Sacramento Kings,Kevin Huerter,SG,82,75,75,72,70,65
+Sacramento Kings,Keegan Murray,PF,78,75,75,70,75,68
+Dallas Mavericks,Luka Doncic,PG,90,88,82,95,75,78
+Dallas Mavericks,Kyrie Irving,SG,92,85,85,88,72,65
+Dallas Mavericks,Tim Hardaway Jr.,SF,85,78,78,72,70,68
+Dallas Mavericks,Maxi Kleber,PF,75,70,75,65,75,75
+Dallas Mavericks,Dwight Powell,C,65,75,78,60,72,80
+Houston Rockets,Jalen Green,SG,82,85,90,75,70,65
+Houston Rockets,Fred VanVleet,PG,85,75,75,82,78,68
+Houston Rockets,Alperen Sengun,C,75,82,72,78,70,80
+Houston Rockets,Jabari Smith Jr.,PF,78,75,78,70,75,75
+Houston Rockets,Dillon Brooks,SF,78,75,78,65,80,70
+Memphis Grizzlies,Ja Morant,PG,85,92,95,88,75,70
+Memphis Grizzlies,Desmond Bane,SG,88,80,80,78,75,70
+Memphis Grizzlies,Jaren Jackson Jr.,PF,80,78,85,70,90,80
+Memphis Grizzlies,Steven Adams,C,60,75,75,60,80,95
+Memphis Grizzlies,Ziaire Williams,SF,75,72,80,65,72,68
+New Orleans Pelicans,Zion Williamson,PF,78,95,95,75,78,85
+New Orleans Pelicans,Brandon Ingram,SF,88,85,85,78,75,75
+New Orleans Pelicans,CJ McCollum,PG,88,80,78,80,70,65
+New Orleans Pelicans,Jonas Valanciunas,C,75,78,70,65,75,90
+New Orleans Pelicans,Herbert Jones,SG,75,75,80,65,80,72
+San Antonio Spurs,Victor Wembanyama,C,85,88,85,75,90,85
+San Antonio Spurs,Keldon Johnson,SF,80,82,85,70,75,75
+San Antonio Spurs,Devin Vassell,SG,78,75,78,72,78,68
+San Antonio Spurs,Jeremy Sochan,PF,72,70,78,65,78,75
+San Antonio Spurs,Tre Jones,PG,75,72,75,78,72,65
+Boston Celtics,Jayson Tatum,SF,90,88,88,80,82,80
+Boston Celtics,Jaylen Brown,SG,88,85,88,75,80,75
+Boston Celtics,Kristaps Porzingis,PF,85,82,80,70,85,80
+Boston Celtics,Al Horford,C,75,70,72,65,78,75
+Boston Celtics,Derrick White,PG,78,75,75,78,80,68
+Brooklyn Nets,Mikal Bridges,SF,85,82,85,75,85,75
+Brooklyn Nets,Cam Thomas,SG,78,80,80,72,70,65
+Brooklyn Nets,Ben Simmons,PG,65,75,88,85,85,80
+Brooklyn Nets,Nicolas Claxton,C,65,78,85,60,85,88
+Brooklyn Nets,Spencer Dinwiddie,SG,80,78,75,80,70,68
+New York Knicks,Julius Randle,PF,85,82,85,75,78,85
+New York Knicks,Jalen Brunson,PG,88,85,78,85,75,65
+New York Knicks,RJ Barrett,SF,80,82,82,70,75,72
+New York Knicks,Mitchell Robinson,C,60,75,80,60,82,88
+New York Knicks,Josh Hart,SG,75,78,78,72,78,75
+Philadelphia 76ers,Joel Embiid,C,88,92,85,75,85,88
+Philadelphia 76ers,Tyrese Maxey,PG,85,80,85,78,75,65
+Philadelphia 76ers,Tobias Harris,SF,80,78,78,72,75,75
+Philadelphia 76ers,Kelly Oubre Jr.,SG,78,82,85,70,72,68
+Philadelphia 76ers,P.J. Tucker,PF,70,65,70,60,78,75
+Toronto Raptors,Pascal Siakam,PF,82,85,85,75,80,85
+Toronto Raptors,Scottie Barnes,SF,78,80,82,78,82,78
+Toronto Raptors,Jakob Poeltl,C,65,75,72,60,80,85
+Toronto Raptors,OG Anunoby,SG,80,78,82,70,85,75
+Toronto Raptors,Dennis Schroder,PG,78,75,75,78,72,65
+Chicago Bulls,Zach LaVine,SG,88,90,90,75,70,65
+Chicago Bulls,DeMar DeRozan,SF,85,88,85,75,75,72
+Chicago Bulls,Nikola Vucevic,C,78,75,70,70,70,88
+Chicago Bulls,Patrick Williams,PF,75,75,78,65,78,75
+Chicago Bulls,Coby White,PG,78,75,78,75,70,65
+Cleveland Cavaliers,Donovan Mitchell,SG,90,88,88,80,75,65
+Cleveland Cavaliers,Darius Garland,PG,88,82,80,85,72,65
+Cleveland Cavaliers,Evan Mobley,PF,75,78,85,70,85,85
+Cleveland Cavaliers,Jarrett Allen,C,65,80,80,60,85,90
+Cleveland Cavaliers,Caris LeVert,SF,78,78,80,75,70,65
+Detroit Pistons,Cade Cunningham,PG,85,80,78,90,75,60
+Detroit Pistons,Jaden Ivey,SG,78,85,82,75,70,65
+Detroit Pistons,Ausar Thompson,SF,74,80,88,72,85,70
+Detroit Pistons,Bojan Bogdanovic,PF,88,78,70,68,65,62
+Detroit Pistons,Jalen Duren,C,68,85,85,58,80,90
+Indiana Pacers,Tyrese Haliburton,PG,85,80,78,92,72,58
+Indiana Pacers,Benedict Mathurin,SG,82,84,80,70,68,62
+Indiana Pacers,Bruce Brown,SF,75,80,78,70,80,70
+Indiana Pacers,Obi Toppin,PF,70,85,88,60,72,68
+Indiana Pacers,Myles Turner,C,72,78,75,58,88,85
+Milwaukee Bucks,Damian Lillard,PG,92,85,78,88,65,50
+Milwaukee Bucks,Malik Beasley,SG,80,78,75,68,60,52
+Milwaukee Bucks,Khris Middleton,SF,88,80,72,75,70,68
+Milwaukee Bucks,Giannis Antetokounmpo,PF,78,98,95,82,90,92
+Milwaukee Bucks,Brook Lopez,C,75,78,65,60,85,80
+Atlanta Hawks,Trae Young,PG,88,80,70,92,60,50
+Atlanta Hawks,Dejounte Murray,SG,80,82,78,75,85,65
+Atlanta Hawks,De'Andre Hunter,SF,75,78,72,68,78,70
+Atlanta Hawks,Jalen Johnson,PF,70,80,82,60,75,75
+Atlanta Hawks,Clint Capela,C,60,85,78,50,85,92
+Charlotte Hornets,LaMelo Ball,PG,85,78,72,90,65,60
+Charlotte Hornets,Terry Rozier,SG,82,78,75,70,68,55
+Charlotte Hornets,Gordon Hayward,SF,85,75,68,72,65,60
+Charlotte Hornets,PJ Washington,PF,78,75,70,65,70,68
+Charlotte Hornets,Mark Williams,C,65,80,75,58,80,85
+Miami Heat,Kyle Lowry,PG,78,72,65,85,75,50
+Miami Heat,Tyler Herro,SG,85,78,72,75,65,55
+Miami Heat,Jimmy Butler,SF,82,88,78,80,85,75
+Miami Heat,Kevin Love,PF,80,70,60,65,68,80
+Miami Heat,Bam Adebayo,C,75,85,80,72,88,85
+Orlando Magic,Markelle Fultz,PG,75,80,78,78,70,65
+Orlando Magic,Jalen Suggs,SG,72,75,75,70,75,60
+Orlando Magic,Franz Wagner,SF,80,78,72,75,72,68
+Orlando Magic,Paolo Banchero,PF,78,85,80,72,75,75
+Orlando Magic,Wendell Carter Jr.,C,72,78,70,68,75,80
+Washington Wizards,Jordan Poole,PG,78,76,82,80,70,50
+Washington Wizards,Corey Kispert,SG,85,72,75,65,60,40
+Washington Wizards,Deni Avdija,SF,76,74,78,68,75,80
+Washington Wizards,Kyle Kuzma,PF,82,80,78,70,68,84
+Washington Wizards,Daniel Gafford,C,70,82,85,55,78,88
+Denver Nuggets,Jamal Murray,PG,85,78,80,88,70,45
+Denver Nuggets,Kentavious Caldwell-Pope,SG,83,74,77,60,80,50
+Denver Nuggets,Michael Porter Jr.,SF,88,76,80,65,70,70
+Denver Nuggets,Aaron Gordon,PF,78,84,88,62,80,85
+Denver Nuggets,Nikola Jokić,C,95,88,78,95,75,92
+Minnesota Timberwolves,Mike Conley,PG,80,70,78,82,72,45
+Minnesota Timberwolves,Anthony Edwards,SG,88,84,86,80,78,70
+Minnesota Timberwolves,Jaden McDaniels,SF,75,74,80,60,85,78
+Minnesota Timberwolves,Karl-Anthony Towns,PF,90,82,78,75,72,88
+Minnesota Timberwolves,Rudy Gobert,C,60,72,82,50,90,95
+Oklahoma City Thunder,Shai Gilgeous-Alexander,PG,92,90,88,89,85,75
+Oklahoma City Thunder,Josh Giddey,SG,80,78,75,87,70,82
+Oklahoma City Thunder,Lu Dort,SF,76,72,80,65,90,70
+Oklahoma City Thunder,Jalen Williams,PF,78,79,81,75,77,72
+Oklahoma City Thunder,Chet Holmgren,C,85,82,78,70,88,85
+Portland Trail Blazers,Scoot Henderson,PG,75,78,88,82,70,65
+Portland Trail Blazers,Anfernee Simons,SG,85,80,80,75,65,60
+Portland Trail Blazers,Matisse Thybulle,SF,72,70,78,60,90,65
+Portland Trail Blazers,Jerami Grant,PF,80,85,82,70,75,68
+Portland Trail Blazers,Deandre Ayton,C,82,88,80,68,78,88
+Utah Jazz,Jordan Clarkson,PG,85,82,78,80,68,65
+Utah Jazz,Keyonte George,SG,78,75,76,72,65,60
+Utah Jazz,Lauri Markkanen,SF,90,88,80,70,75,82
+Utah Jazz,John Collins,PF,82,85,80,65,75,80
+Utah Jazz,Walker Kessler,C,70,78,75,60,88,90
