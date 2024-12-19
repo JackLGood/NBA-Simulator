@@ -1,0 +1,4 @@
+(test
+ (name test_finalproject)
+ (libraries ounit2 finalproject)
+ (deps (glob_files_rec ../data/*)))
